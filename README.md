@@ -77,8 +77,4 @@ A responsive cat-adoption and care website prototype with search and filters, a 
 `HTML` `CSS` `JavaScript` `Responsive UI`  
 [Explore the code →](https://github.com/onoizu/MeowHome)
 
----
 
-<div align="center">
-  <sub>Thanks for visiting — explore the repositories for code, methods, and project details.</sub>
-</div>
