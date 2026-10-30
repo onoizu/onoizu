@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Meihui An</title>
+  <desc id="desc">Computer Science at PolyU. Applied ML, NLP and AI Learning Tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161c36"/>
+      <stop offset="0.58" stop-color="#343268"/>
+      <stop offset="1" stop-color="#275969"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c1b6ff"/>
+      <stop offset="1" stop-color="#8ce2d8"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1200" height="280" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="280" fill="url(#bg)"/>
+    <circle cx="1110" cy="25" r="195" fill="#c3b4ff" opacity="0.05"/>
+    <circle cx="1080" cy="278" r="140" fill="#8ce2d8" opacity="0.07"/>
+    <g fill="none" stroke="#a9c7eb" stroke-width="1" opacity="0.17">
+      <circle cx="1030" cy="140" r="94"/>
+      <circle cx="1030" cy="140" r="61"/>
+      <path d="M936 140h188M1030 46v188M965 74l131 132M965 206l131-132"/>
+      <path d="M835 222l101-82M863 74l102 0M1096 206l104 40"/>
+    </g>
+    <g fill="#b4d8ed">
+      <circle cx="936" cy="140" r="4"/><circle cx="1030" cy="46" r="4"/>
+      <circle cx="1096" cy="206" r="4"/><circle cx="965" cy="74" r="4"/>
+    </g>
+    <rect x="64" y="64" width="48" height="4" rx="2" fill="url(#accent)"/>
+    <text x="64" y="123" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1">Meihui An</text>
+    <text x="65" y="164" fill="#e0e3f5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21">Computer Science @ PolyU</text>
+    <text x="65" y="206" fill="#afdcd8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="1">APPLIED ML  ·  NLP  ·  AI LEARNING TOOLS</text>
+    <path d="M0 263C240 243 421 290 678 263S1037 246 1200 262V280H0Z" fill="#c3b4ff" opacity="0.09"/>
+  </g>
+</svg>
