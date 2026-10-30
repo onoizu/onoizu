@@ -1,19 +1,10 @@
 <div align="center">
 
-<p><strong>Hi, I'm Meihui 👋</strong><br>Computer Science undergraduate at The Hong Kong Polytechnic University</p>
+<p><strong>Hi, there 👋</strong> </p>
 
-<a href="#-selected-projects">Selected Projects</a> · <a href="#-tools--technologies">Tech Stack</a> · <a href="https://github.com/onoizu?tab=repositories">All Repositories</a>
 
 </div>
 
-## 🌱 About me
-
-I'm interested in **applied machine learning, natural language processing, and AI tools for learning**. I enjoy exploring data, making model outputs understandable, and building interfaces that turn ideas into something people can try.
-
-- 🎓 Studying **Computer Science at PolyU**, Hong Kong.
-- 🔭 Building projects across **AI tutoring, semantic clustering, customer analytics, and web development**.
-- 📚 Strengthening my foundations in **ML, algorithms, operating systems, and computer networks**.
-- 💡 Curious about how AI can support learning and practical business decisions.
 
 ## 🛠️ Tools & technologies
 
