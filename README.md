@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Meihui An — Computer Science at PolyU · Applied ML · NLP · AI Learning Tools">
-
 <p><strong>Hi, I'm Meihui 👋</strong><br>Computer Science undergraduate at The Hong Kong Polytechnic University</p>
 
 <a href="#-selected-projects">Selected Projects</a> · <a href="#-tools--technologies">Tech Stack</a> · <a href="https://github.com/onoizu?tab=repositories">All Repositories</a>
@@ -37,6 +35,14 @@ Languages and tools used across my projects and coursework:
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
 </p>
+
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onoizu/onoizu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onoizu/onoizu/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation of onoizu's GitHub contributions" src="https://raw.githubusercontent.com/onoizu/onoizu/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 ## 🚀 Selected projects
 
