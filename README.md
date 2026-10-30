@@ -36,7 +36,7 @@ Languages and tools used across my projects and coursework:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
 </p>
 
-## 🐍 Contribution snake
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onoizu/onoizu/output/github-contribution-grid-snake-dark.svg">
