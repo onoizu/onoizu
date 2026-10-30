@@ -8,7 +8,6 @@
 
 ## 🛠️ Tools & technologies
 
-Languages and tools used across my projects and coursework:
 
 <p>
   <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"></a>
